@@ -1,0 +1,19 @@
+{
+    "run": {
+        "start_time": "2026-10-06T16:51:20.885250+00:00",
+        "end_time": "2026-10-06T16:52:35.224390+00:00",
+        "duration_seconds": 74.34
+    },
+    "collected_per_source": {
+        "Books to Scrape": 1000,
+        "Quotes to Scrape": 100
+    },
+    "cleaned_per_source": {
+        "Books to Scrape": 1000,
+        "Quotes to Scrape": 100
+    },
+    "rejected_total": 0,
+    "rejected_by_reason": {},
+    "duplicates_detected": 1,
+    "final_record_count": 1099
+}
